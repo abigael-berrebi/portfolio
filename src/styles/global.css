@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Police élégante pour architecte */
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #f4f4f5; /* Gris béton très clair */
+    color: #18181b; /* Noir presque pur */
+}
